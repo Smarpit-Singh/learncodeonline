@@ -1,0 +1,18 @@
+<resources>
+    <string name="app_name">LoginActivity</string>
+
+    <string name="email_hint">Ente E-Mail</string>
+    <string name="password_hint">Enter Password</string>
+
+    <string name="sign_int">Sign In</string>
+    <string name="signin_with">Signin with</string>
+    <string name="new_user_signup">New user?</string>
+    <string name="signup_submit_text">Sign Up</string>
+
+
+    <string name="forgot_password">Forgot Password</string>
+    <string name="name_hint">Enter name</string>
+    <string name="Signup_txt">Signup</string>
+    <string name="phone_hint">Phone number</string>
+
+</resources>
